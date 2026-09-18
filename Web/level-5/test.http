@@ -1,1 +1,9 @@
-GET https
+POST https://legendary-yodel-r74prvp4r56h556g-3000.app.github.dev/api/user
+Content-Type: application/json
+
+{
+  "name": "Amar Akhbar Anthony",
+  "age": 45,
+  "character":"Ravi Teja"
+}
+
